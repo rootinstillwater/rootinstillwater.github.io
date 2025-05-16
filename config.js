@@ -16,9 +16,10 @@ export const config = {
   siteTitle: 'Windows 98 Portfolio',
   bannerRotationInterval: 10000,
   
-  additionalPlaylists: {
-    unreleased: [
-      { file: 'hyperix - insomnolence.mp3', title: 'hyperix - insomnolence' }
-    ]
-  }
+additionalPlaylists: {
+  unreleased: [
+    { file: 'insomnolence.mp3', title: 'insomnolence' },
+    { file: 'jungle morning.mp3', title: 'jungle morning' }
+  ]
+}
 };
